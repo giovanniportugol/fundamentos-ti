@@ -21,6 +21,8 @@ Este repositório tem como objetivo organizar anotações e estudos simples sobr
 - `redes-basico.md` — conceitos iniciais sobre redes de computadores.
 - `sistemas-operacionais.md` — conceitos básicos sobre sistemas operacionais.
 - `ciberseguranca-basica.md` — fundamentos de cibersegurança e boas práticas digitais.
+- `comandos-terminal.md` — comandos básicos de terminal no Windows e Linux.
+- `cloud-computing-basico.md` — conceitos iniciais sobre computação em nuvem.
 
 ## Objetivo
 
