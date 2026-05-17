@@ -1,2 +1,25 @@
-# fundamentos-ti
-Estudos acadêmicos sobre fundamentos de Tecnologia da Informação.
+# Fundamentos de Tecnologia da Informação
+
+Repositório criado para registrar meus estudos acadêmicos sobre fundamentos de Tecnologia da Informação.
+
+## Sobre
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição para a área de Tecnologia da Informação.
+
+Este repositório tem como objetivo organizar anotações e estudos simples sobre:
+
+- Redes de computadores
+- Sistemas operacionais
+- Suporte técnico
+- Segurança da informação
+- Fundamentos de cibersegurança
+- Fundamentos acadêmicos de cloud computing
+- Comandos básicos de terminal
+
+## Objetivo
+
+Demonstrar minha evolução nos estudos de TI, organizando conceitos fundamentais para oportunidades iniciais em suporte técnico, infraestrutura, dados, QA/testes e desenvolvimento.
+
+## Status
+
+Em desenvolvimento.
