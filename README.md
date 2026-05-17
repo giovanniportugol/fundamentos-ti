@@ -16,6 +16,12 @@ Este repositório tem como objetivo organizar anotações e estudos simples sobr
 - Fundamentos acadêmicos de cloud computing
 - Comandos básicos de terminal
 
+## Conteúdos
+
+- `redes-basico.md` — conceitos iniciais sobre redes de computadores.
+- `sistemas-operacionais.md` — conceitos básicos sobre sistemas operacionais.
+- `ciberseguranca-basica.md` — fundamentos de cibersegurança e boas práticas digitais.
+
 ## Objetivo
 
 Demonstrar minha evolução nos estudos de TI, organizando conceitos fundamentais para oportunidades iniciais em suporte técnico, infraestrutura, dados, QA/testes e desenvolvimento.
